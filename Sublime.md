@@ -7,7 +7,7 @@ Navigate to User > Monokai (SK).tmTheme (or whatever them you currently have)
 
 Open in editor
 
-<h5>Shortcuts</h5>
-| Shortcu    | Desciption  | 
-|----------- | ------------|
-|cmd + L     | select line |
+<h4>Shortcuts</h4>
+| Shortcuts         | Desciption        | 
+|------------------ | ------------------|
+|cmd + L            | select line       |
